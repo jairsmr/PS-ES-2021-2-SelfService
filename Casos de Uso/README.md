@@ -14,4 +14,4 @@
 
 **2:** Feito o login, o administrador tem as opções de cadastrar novos alimentos e listar os alimentos existentes, para que possa editar ou excluir informações.
 
-**3:** O administrador recebe os pedidos dos usuários e os confirma para que saiam para entrega.
+**3:** O administrador recebe os pedidos dos usuários e os confirma para que sejam preparados.
