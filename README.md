@@ -8,12 +8,14 @@
 
 **R3.** O sistema permite cadastro do catálogo de alimentos para que o cliente possa ver a opções disponíveis no estabelecimento. Esse cadastro de alimentos é feito/alterado pelo fornecedor e, aparece pré-definido para o usuário selecionar.
 
-**R4.** O sistema deve retornar ao usuário, em caso de indisponibilidade de alimentos, uma coloração diferente (vermelho) e, estará indisponível para seleção.
+**R4.** O sistema deve retornar ao usuário, em caso de indisponibilidade de alimentos, uma coloração diferente (saturação em vermelho) e, estará indisponível para seleção.
 
 **R5.** O sistema deve armazenar no carrinho os alimentos selecionados pelo cliente e, enviar o pedido para o fornecedor onde o mesmo é preparado. 
 
-**R6.** O sistema irá redirecionar o cliente para a aba de pagamento onde é gerado um código PIX ou realizado pagamento por cartão de crédito. (Caso o cliente opte por pagamento no restaurante, o mesmo poderá selecionar esta opção).
+**R6.** O sistema, após a seleção, irá redirecionar o cliente para a aba de pagamento onde é gerado um código PIX ou realizado pagamento por cartão de crédito. (Caso o cliente opte por pagamento no restaurante, o mesmo poderá selecionar esta opção).
 
 _obs: Clientes presenciais não necessariamente precisam utilizar o aplicativo._
 
+**R7.** O sistema deve disponibilizar ao cliente pontuações por utlizar o aplicativo, onde os mesmos são trocados por descontos ou itens, no fechamento do pedido.
 
+_obs: Clientes presenciais podem receber promoções e apresentar ao restaurante no ato do pagamento, fazendo assim com que mais pessoas utilizem o aplicativo._
