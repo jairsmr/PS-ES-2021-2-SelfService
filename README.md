@@ -1,4 +1,4 @@
-# Requisitos Funcionais - Self Service:
+# Requisitos Funcionais (RF) - Self Service:
 
 ## Sistema de informação desenvolvido para restaurante modelo self-service, em que o usuário monta seu prato antes de chegar no estabelecimento.
 
