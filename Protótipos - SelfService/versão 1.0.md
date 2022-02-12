@@ -4,4 +4,4 @@
 
 **Tela de Login:**
 
-<img src = "/img v1.0/Tela de login.png">
+<img src = "img v1.0/Tela de login.png">
