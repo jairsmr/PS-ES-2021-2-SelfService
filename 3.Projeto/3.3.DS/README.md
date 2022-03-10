@@ -1,6 +1,6 @@
 # Descrição dos diagramas de sequência:
 
-Os diagramas foram organizados em 4, sendo eles:
+Os diagramas foram organizados em quatro, sendo eles:
 
 ## Cadastro e Login:
 Mostra o processo de cadastro e login para ambos usuário e administrador.
