@@ -1,15 +1,18 @@
 # Descrição dos diagramas de sequência:
 
-Os diagramas foram organizados em quatro, sendo eles:
+Os diagramas foram organizados em cinco, representando os seguintes casos de uso:
 
-## Cadastro e Login:
-Mostra o processo de cadastro e login para ambos usuário e administrador.
+## Realizar Cadastro (usuário e administrador)
+Apresenta o processo de cadastro do usuário e administrador.
 
-## Admin:
-Mostra todas as ações que podem ser executadas pelo administrador.
+## Realizar Login (usuário e administrador)
+Apresenta o processo de login do usuário e administrador.
 
-## Pedido:
-Processo de um pedido realizado por um usuário até seu preparo.
+## Realizar Registro de Cardápio
+Mostra o registro de alimentos e todas as ações que podem ser executadas pelo administrador.
 
-## Troca de Pontos:
-Processo de troca de pontos, gerados ao realizar pagamentos, por itens do estabelecimento.
+## Realizar Seleção de Pratos e Adicionar ao Carrinho
+Processo de um pedido realizado por um usuário.
+
+## Verificar pedidos realizados na tela de pedidos
+Processo do administrador de confirmar pedidos realizados por usuários.
