@@ -14,5 +14,5 @@ Mostra o registro de alimentos e todas as ações que podem ser executadas pelo 
 ### Realizar Seleção de Pratos e Adicionar ao Carrinho
 Processo de um pedido realizado por um usuário.
 
-### Verificar pedidos realizados na tela de pedidos
+### Verificar Pedidos Realizados na Tela de Pedidos
 Processo do administrador de confirmar pedidos realizados por usuários.
