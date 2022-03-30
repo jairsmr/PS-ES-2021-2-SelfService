@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1081662326408",
+    "project_id": "selffood-37c38",
+    "storage_bucket": "selffood-37c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081662326408:android:54b21d35ea5ca77d30813d",
+        "android_client_info": {
+          "package_name": "com.example.self_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081662326408-82buocd4un9vumgui3p0eq3qgtd755ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1ER_wQg8vaUfNMRevEjCEUR3yoYj3rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081662326408-82buocd4un9vumgui3p0eq3qgtd755ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
